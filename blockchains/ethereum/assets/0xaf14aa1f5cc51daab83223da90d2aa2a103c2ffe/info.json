@@ -1,10 +1,16 @@
 {
   "name": "Tether USD",
   "symbol": "USDT",
-  "decimals": 6,
-  "website": "https://tether.to",
-  "description": "Tether USD (USDT) is the largest stablecoin, designed to maintain a 1:1 peg with the US dollar.",
-  "explorer": "https://etherscan.io/token/0xaf14aa1f5cc51daab83223da90d2aa2a103c2ffe",
-  "status": "active",
-  "id": "0xaf14aa1f5cc51daab83223da90d2aa2a103c2ffe"
+  "decimals": 9,
+  "description": "$USDT is a stablecoin pegged to the US Dollar, widely used for trading and payments on Ethereum.",
+  "type": "ERC20",
+  "tags": ["stablecoin", "USD", "crypto"],
+  "links": {
+    "website": "https://tether.to",
+    "explorer": "https://etherscan.io/token/0xaf14aa1f5cc51daab83223da90d2aa2a103c2ffe",
+    "twitter": "https://twitter.com/Tether_to",
+    "github": "https://github.com/Tether-to",
+    "reddit": "https://www.reddit.com/r/Tether/"
+  },
+  "status": "active"
 }
