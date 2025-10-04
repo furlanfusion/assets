@@ -1,6 +1,6 @@
 {
-  "name": "Tether USD",
-  "symbol": "USDT",
+  "name": "USDTEthereum",
+  "symbol": "USDT ec20",
   "decimals": 9,
   "description": "$USDT is a stablecoin pegged to the US Dollar, widely used for trading and payments on Ethereum.",
   "type": "ERC20",
