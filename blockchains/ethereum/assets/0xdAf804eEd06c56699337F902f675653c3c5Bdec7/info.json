@@ -1,0 +1,13 @@
+{
+    "name": "USDT (USDT)",
+    "type": "ERC20",
+    "symbol": "USDT",
+    "decimals": 18,
+    "website": "",
+    "description": "",
+    "explorer": "https://etherscan.io/token/furlan@furlan-HP-G42-Notebook-PC:~/token-logo-ethereum$ cd ~/token-logo-ethereum ls -lh pacote_trustwallet/ cat pacote_trustwallet/relatorio.json total 16K -rw-rw-r-- 1 furlan furlan  497 out 16 04:27 info.json -rw-rw-r-- 1 furlan furlan 7,4K out 16 03:58 logo.png -rw-rw-r-- 1 furlan furlan  359 out 16 20:47 relatorio.json {   \"contract\": \"0xdAf804eEd06c56699337F902f675653c3c5Bdec7\",   \"network\": \"Ethereum Mainnet\",   \"chain_id\": 1,   \"onchain_name\": \"USDT\",   \"onchain_symbol\": \"USDT\",   \"onchain_decimals\": 18,   \"logo_width\": 256,   \"logo_height\": 256,   \"logo_bytes\": 7526,   \"prepared_at\": \"verifique a data no seu sistema\",   \"submission_status\": \"PREPARADO; NÃO ENVIADO\" }furlan@furlan-HP-G42-Notebook-PC:~/token-logo-ethereum$ ",
+    "status": "active",
+    "id": "0xdAf804eEd06c56699337F902f675653c3c5Bdec7",
+    "links": [],
+    "tags": []
+}
